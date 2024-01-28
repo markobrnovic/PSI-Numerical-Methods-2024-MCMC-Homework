@@ -1,5 +1,3 @@
 # PSI-Numerical-Methods-2024-MCMC-Homework
 
-Homework assignment on MCMC, for PSI Numerical Methods 2024
-
-Please read the MCMC-homework-assignment.ipynb notebook for instructions!
+I could not upload the notebook via git push since it was over 100Mb so I uploaded it straight to GitHub.
